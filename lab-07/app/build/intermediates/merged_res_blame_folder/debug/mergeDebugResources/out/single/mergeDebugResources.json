@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/xml_backup_rules.xml.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/layout_activity_show.xml.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/layout/activity_show.xml"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/layout_content.xml.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/layout/content.xml"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-debug-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/joshuaterry/.gradle/daemon/9.1.0/com.example.androiduitesting.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.androiduitesting.app-debug-33:/layout_activity_show.xml.flat",
+        "source": "com.example.androiduitesting.app-main-35:/layout/activity_show.xml"
+    }
+]
