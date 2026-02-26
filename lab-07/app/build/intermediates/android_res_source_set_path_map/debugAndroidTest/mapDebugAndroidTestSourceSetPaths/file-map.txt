@@ -1,6 +1,0 @@
-com.example.androiduitesting.test.app-core-1.6.1-0 /Users/joshuaterry/.gradle/caches/9.1.0/transforms/a9a9786deead5caee640153a249aa584/transformed/core-1.6.1/res
-com.example.androiduitesting.test.app-androidTest-1 /Users/joshuaterry/Desktop/lab-07/app/build/generated/res/resValues/androidTest/debug
-com.example.androiduitesting.test.app-updated_navigation_xml-2 /Users/joshuaterry/Desktop/lab-07/app/build/generated/updated_navigation_xml/debugAndroidTest
-com.example.androiduitesting.test.app-mergeDebugAndroidTestResources-3 /Users/joshuaterry/Desktop/lab-07/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.example.androiduitesting.test.app-mergeDebugAndroidTestResources-4 /Users/joshuaterry/Desktop/lab-07/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.example.androiduitesting.test.app-debugAndroidTest-5 /Users/joshuaterry/Desktop/lab-07/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

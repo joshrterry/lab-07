@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<testsuite name="com.example.androiduitesting.MainActivityTest" tests="1" failures="0" errors="0" skipped="0" time="4.155" timestamp="2026-02-26T20:13:37" hostname="localhost">
-  <properties>
-    <property name="device" value="Pixel_9(AVD) - 16" />
-    <property name="flavor" value="" />
-    <property name="project" value=":app" />
-  </properties>
-  <testcase name="testBackButton" classname="com.example.androiduitesting.MainActivityTest" time="3.48" />
-</testsuite>

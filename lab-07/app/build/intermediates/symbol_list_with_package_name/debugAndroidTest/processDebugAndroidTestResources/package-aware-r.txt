@@ -1,3 +1,0 @@
-com.example.androiduitesting.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
