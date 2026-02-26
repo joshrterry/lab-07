@@ -65,6 +65,8 @@ public class MainActivityTest {
         onData(is(instanceOf(String.class))).inAdapterView(withId(R.id.city_list)).atPosition(0).check(matches((withText("Edmonton"))));
     }
 
+    // PARTICIPATION EXERCISE BELOW
+
     @Test
     public void testActivitySwitched() {
         onView(withId(R.id.button_add)).perform(click());
@@ -107,4 +109,6 @@ public class MainActivityTest {
         onView(withId(R.id.buttonBack)).perform(click());
         onView(withId(R.id.city_list)).check(matches(isDisplayed()));
     }
+
+    // PARTICIPATION EXERCISE ABOVE
 }
